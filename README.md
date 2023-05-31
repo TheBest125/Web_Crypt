@@ -13,11 +13,6 @@ or
 git clone https://github.com/django/django.git
 ```
 
-**Comprobar versión:**
-```python
-python -m django --version
-```
-
 **Lanzar servidor en local:**
 ```python
 python manage.py runserver
