@@ -1,5 +1,7 @@
 # Django Web Crypto
 
+Made by Kevinbruyne
+
 <img src="https://github.com/scullen99/Django_Web_Crypto/blob/master/Django1.jpg" height="250" width="370" text-align="center">
 
 ## <a href="https://www.djangoproject.com/"> Sitio Oficial Django </a>
